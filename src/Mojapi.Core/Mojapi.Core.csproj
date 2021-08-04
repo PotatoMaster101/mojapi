@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>PotatoMaster101</Authors>
+    <PackageId>PotatoMaster101.Mojapi</PackageId>
+    <Title>Mojapi</Title>
+    <Description>An asynchronous Mojang API wrapper in C# targetting .NET 5 and above</Description>
+    <Copyright>Copyright (c) 2021 PotatoMaster101</Copyright>
+    <PackageProjectUrl>https://github.com/PotatoMaster101/mojapi</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/PotatoMaster101/mojapi</RepositoryUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Improve resource management</PackageReleaseNotes>
+    <AssemblyVersion>1.0.6</AssemblyVersion>
+    <FileVersion>1.0.6</FileVersion>
+    <PackageVersion>1.0.6</PackageVersion>
+  </PropertyGroup>
+
+</Project>
