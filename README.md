@@ -3,6 +3,8 @@
 [![.NET](https://github.com/PotatoMaster101/mojapi/actions/workflows/dotnet.yml/badge.svg)](https://github.com/PotatoMaster101/mojapi/actions/workflows/dotnet.yml)
 [![Nuget](https://img.shields.io/nuget/v/PotatoMaster101.Mojapi)](https://www.nuget.org/packages/PotatoMaster101.Mojapi/)
 
+**Deprecation notice: This project will be archived once [PotatoMaster101/MojSharp](https://github.com/PotatoMaster101/MojSharp) is completed.**
+
 An asynchronous [Mojang API](https://wiki.vg/Mojang_API) wrapper in C# targeting `.NET 5` and above.
 
 ## Build
